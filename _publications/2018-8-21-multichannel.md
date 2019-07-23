@@ -8,7 +8,7 @@ venue: 'EMNLP Workshop W-NUT: The 4th Workshop on Noisy User-Generated Text, Hon
 paperurl: 'https://arxiv.org/pdf/1808.07118.pdf'
 citation: 'S. Mandal and A. K. Singh. 
 <b> Language Identification in Code-Mixed Data using Multichannel Neural Networks and Context Capture </b>. 
-<i> EMNLP Workshop W-NUT: The 4th Workshop on Noisy User-Generated Text, Hong Kong </i> (2018).'
+<i> The 4th Workshop on Noisy User-Generated Text, Hong Kong </i> (2018).'
 author:  '<b>S. Mandal</b> and A. K. Singh'
 ---
 <b>abstact</b><br>
