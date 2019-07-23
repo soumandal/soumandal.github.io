@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the [Department of Computer Science](https://cs.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/).
+I am a graduate student in the at [The University of Texas at Dallas](https://www.utdallas.edu/).
 
-I am also a begineer researcher with interests in applied machine learning and natural language processing.
+My research interests are in applied machine learning and natural language processing.
