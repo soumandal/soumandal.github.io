@@ -17,9 +17,9 @@ such occasions, multiple languages are being mixed with different rules of gramm
 
 [download paper here](https://arxiv.org/pdf/1801.02581;Analyzing)
 
-@article{mandal2018analyzing,<br>
-  title={Analyzing Roles of Classifiers and Code-Mixed factors for Sentiment Identification},<br>
-  author={Mandal, Soumil and Das, Dipankar},<br>
-  journal={arXiv preprint arXiv:1801.02581},<br>
-  year={2018}<br>
+@article{mandal2018analyzing, <br>
+  title={Analyzing roles of classifiers and code-mixed factors for sentiment identification}, <br>
+  author={Mandal, Soumil and Das, Dipankar}, <br>
+  journal={arXiv preprint arXiv:1801.02581}, <br>
+  year={2018} <br>
 }
