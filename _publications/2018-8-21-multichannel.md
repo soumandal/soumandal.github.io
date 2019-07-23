@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-8-21-paper-multichannel
 excerpt: ''
 date: 2018-8-21
-venue: 'EMNLP Workshop W-NUT: The 4th Workshop on Noisy User-Generated Text, Hong Kong'
+venue: 'The 4th Workshop on Noisy User-Generated Text, Hong Kong'
 paperurl: 'https://arxiv.org/pdf/1808.07118.pdf'
 citation: 'S. Mandal and A. K. Singh. 
 <b> Language Identification in Code-Mixed Data using Multichannel Neural Networks and Context Capture </b>. 
