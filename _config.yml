@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "SOUMIL MANDAL"
 title_separator          : "-"
 name                     : &name "Soumil Mandal"
-description              : &description "CS graduate student at The University of Texas at Dallas."
+description              : &description ""
 url                      : https://soumandal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "soumandal/soumandal.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Soumil Mandal"
   avatar           : "profile.png"
-  bio              : "CS graduate student at The University of Texas at Dallas."
-  location         : "Dallas"
+  bio              : ""
+  location         : "Kolkata"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=b3u3v5AAAAAJ&hl=en"
