@@ -8,7 +8,7 @@ venue: 'Proceedings of the LREC 2018 Workshop “The 13th Workshop on Asian Lang
 paperurl: 'https://arxiv.org/pdf/1803.04000.pdf'
 citation: 'S. Mandal, S. Mahata and D. Das. 
 <b> Preparing Bengali-English Code-Mixed Corpus for Sentiment Analysis of Indian Languages </b>. 
-<i> Proceedings of the LREC 2018 Workshop “The 13th Workshop on Asian Language Resources" </i> (2018).'
+<i> The 13th Workshop on Asian Language Resources, Miyazaki, Japan" </i> (2018).'
 author:  '<b>S. Mandal</b>, S. Mahata and D. Das'
 ---
 <b>abstact</b><br>
