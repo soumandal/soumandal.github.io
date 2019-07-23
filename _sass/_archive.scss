@@ -15,15 +15,8 @@
   }
 
   a {
-    text-decoration: underline;
-
-    &:hover {
-      text-decoration: underline;
-
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
-    }
+    color: inherit;
+    text-decoration: none;
   }
 }
 
@@ -40,7 +33,7 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: -0.5em;
   font-family: $sans-serif-narrow;
 
   a + a {
