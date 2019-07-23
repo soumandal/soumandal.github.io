@@ -1,9 +1,9 @@
 ---
 title: "Analyzing Roles of Classifiers and Code-Mixed factors for Sentiment Identification"
 collection: publications
-permalink: /publication/2018-3-15-paper-analyzing
+permalink: /publication/2018-1-8-paper-analyzing
 excerpt: ''
-date: 2018-3-15
+date: 2018-1-8
 venue: 'Research in Computing Science, ISSN 1870-4069 (accepted)'
 paperurl: 'https://arxiv.org/pdf/1801.02581;Analyzing'
 citation: 'S. Mandal and D. Das. 
