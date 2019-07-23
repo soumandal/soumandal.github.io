@@ -1,5 +1,5 @@
 ---
-title: "Language Identification of Bengali-English Code-Mixed data using Character & Phonetic based LSTM Models"
+title: "Language Identification of Bengali-English Code-Mixed data Using Character & Phonetic based LSTM Models"
 collection: publications
 permalink: /publication/2018-6-27-paper-phonetic
 excerpt: ''
