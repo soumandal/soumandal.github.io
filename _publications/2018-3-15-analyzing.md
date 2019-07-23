@@ -13,4 +13,9 @@ such occasions, multiple languages are being mixed with different rules of gramm
 
 [Download paper here](https://arxiv.org/pdf/1801.02581;Analyzing)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+@article{mandal2018analyzing,
+  title={Analyzing Roles of Classifiers and Code-Mixed factors for Sentiment Identification},
+  author={Mandal, Soumil and Das, Dipankar},
+  journal={arXiv preprint arXiv:1801.02581},
+  year={2018}
+}
