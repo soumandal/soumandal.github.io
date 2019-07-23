@@ -8,7 +8,7 @@ venue: '15th International Conference on Computing and Information Technology, B
 paperurl: 'https://arxiv.org/pdf/1803.03859.pdf'
 citation: 'S. Mandal, S. D. Das and D. Das. 
 <b> Language Identification of Bengali-English Code-Mixed data using Character & Phonetic based LSTM Models </b>. 
-<i> 15th International Conference on Computing and Information Technology, Bangkok, Thailand </i> (2018).'
+<i> 15th International Conference on Computing and Information Technology, Bangkok, Thailand (accepted) </i> (2018).'
 author:  '<b>S. Mandal</b>, S. D. Das and D. Das'
 ---
 <b>abstact</b><br>
