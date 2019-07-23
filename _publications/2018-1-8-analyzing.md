@@ -8,7 +8,7 @@ venue: 'Research in Computing Science, ISSN 1870-4069 (accepted)'
 paperurl: 'https://arxiv.org/pdf/1801.02581;Analyzing'
 citation: 'S. Mandal and D. Das. 
 <b> Analyzing Roles of Classifiers and Code-Mixed factors for Sentiment Identification </b>. 
-<i> Research in Computing Science, ISSN 1870-4069 </i> (2018).'
+<i> Research in Computing Science, ISSN 1870-4069 (accepted) </i> (2018).'
 author:  '<b>S. Mandal</b> and D. Das'
 ---
 <b>abstact</b><br>
