@@ -1,9 +1,9 @@
 ---
 title: "Language Identification of Bengali-English Code-Mixed Data using Character & Phonetic based LSTM Models"
 collection: publications
-permalink: /publication/2018-6-27-paper-phonetic
+permalink: /publication/2018-3-10-paper-phonetic
 excerpt: ''
-date: 2018-6-27
+date: 2018-3-10
 venue: '15th International Conference on Computing and Information Technology, Bangkok, Thailand (accepted)'
 paperurl: 'https://arxiv.org/pdf/1803.03859.pdf'
 citation: 'S. Mandal, S. D. Das and D. Das. 
