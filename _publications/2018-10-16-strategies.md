@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/2018-10-16-paper-strategies
 excerpt: ''
 date: 2018-10-16
-venue: 'ICON 18, Student Paper Competition (accepted)'
+venue: '15th International Conference on Natural Language Processing, Student Paper Competition (accepted), 2018'
 paperurl: 'https://arxiv.org/pdf/1810.07156.pdf'
 citation: 'S. Mandal and S. Sanand. 
 <b> Strategies for Language Identification in Code-Mixed Low Resource Languages </b>. 
-<i> ICON 18, Student Paper Competition (accepted) </i> (2018).'
+<i> 15th International Conference on Natural Language Processing, Student Paper Competition (accepted), 2018'
 author:  '<b>S. Mandal</b> and S. Sanand'
 ---
 <b>abstact</b><br>
