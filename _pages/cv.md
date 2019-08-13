@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Computer Science & Engineering, SRM Institute of Science & Technology, 2019
 * M.S. in Computer Science, The University of Texas at Dallas, 2021 (expected)
+* B.Tech. in Computer Science & Engineering, SRM Institute of Science & Technology, 2019
 
 Work experience
 ======
