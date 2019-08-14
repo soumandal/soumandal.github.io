@@ -19,28 +19,28 @@ Work experience
 * Jadavpur University, NLP Research Intern, December 2018 - January 2019 
   * Developed a back-transliteration system for Bengali writen in Roman
   * Developed a framework for translating Bengali-English code-mixed to monolingual instance
-  * Supervisor: Dr. Dipankar Das
+  * Supervisor: <em>Dr. Dipankar Das</em>
   
 * Indian Institute of Technology (BHU), Varanasi, NLP Research Intern, June 2018 - July 2018 
   * Developed an instance level code-mixed language tagger using character encoding and multichannel neural net
   * Worked on solving OOV problem in NMT using cognate mapping
-  * Supervisor: Dr. Anil Kumar Singh
+  * Supervisor: <em>Dr. Anil Kumar Singh</em>
 
 * Jadavpur University, NLP Research Intern, December 2017 - January 2018 
   * Developed a word level code-mixed language tagger using character, phonetic encoding and LSTM
   * Did a comparative study on translation of simple sentences by NMT and SMT systems
-  * Supervisor: Dr. Dipankar Das
+  * Supervisor: <em>Dr. Dipankar Das</em>
   
 * Jadavpur University, NLP Research Intern, June 2017 - July 2017 
   * Developed an automated system for collection of code-mixed data from Twitter
   * Created data for Shared Task on Sentiment Analysis for Indian languages ([SAIL 17](http://www.dasdipankar.com/SAILCodeMixed.html))
   * Developed a ternary sentiment classiﬁer for Bengali-English code-mixed data
-  * Supervisor: Dr. Dipankar Das
+  * Supervisor: <em>Dr. Dipankar Das</em>
 
 * Jadavpur University, NLP Research Intern, December 2016 - January 2017 
   * Created a Bengali-English code-mixed corpus with 800+ instances
   * Developed a binary sentiment classifier for Bengali-English code-mixed data
-  * Supervisor: Dr. Dipankar Das
+  * Supervisor: <em>Dr. Dipankar Das</em>
   
 Skills
 ======
