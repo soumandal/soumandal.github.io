@@ -16,13 +16,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jadavpur University, NLP Research Intern, June 2017 - July 2017 
+  * Developed an automated system for collection of code-mixed data from Twitter
+  * Created data for Shared Task on Sentiment Analysis for Indian languages ([SAIL 17](http://www.dasdipankar.com/SAILCodeMixed.html))
+  * Developed a ternary sentiment classiﬁer for Bengali-English code-mixed data
+  * Supervisor: Dr. Dipankar Das
 
 * Jadavpur University, NLP Research Intern, December 2016 - January 2017 
-  * Duties included: Merging pull requests
+  * Created a Bengali-English code-mixed corpus with 800+ instances
+  * Developed a binary sentiment classifier for Bengali-English code-mixed data
   * Supervisor: Dr. Dipankar Das
   
 Skills
