@@ -21,10 +21,10 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* Jadavpur University | NLP Research Intern | December 2016 - January 2017 
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Dr. Dipankar Das
   
 Skills
 ======
@@ -32,13 +32,13 @@ Skills
 * Libraries - NumPy, Pandas, Matplotlib, Tensorflow, Keras, Scikit-Learn
 * Technologies - Git, Django, MySQL, Flask
 
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
