@@ -21,8 +21,8 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Jadavpur University | NLP Research Intern | December 2016 - January 2017 
-  * Github University
+* NLP Research Intern - December 2016 - January 2017 
+  * Jadavpur University
   * Duties included: Merging pull requests
   * Supervisor: Dr. Dipankar Das
   
