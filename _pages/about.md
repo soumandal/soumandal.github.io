@@ -7,3 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+I am a graduate student pursuing Master's in Computer Science at [The University of Texas at Dallas](https://www.utdallas.edu/). My research interests include machine learning, natural language processing and information retrieval. 
+
