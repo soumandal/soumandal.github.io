@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-11-9-paper-framework
 excerpt: ''
 date: 2019-11-9
-venue: 'Forum for Information Retrieval Evaluation, Kolkata, 2019'
+venue: 'Forum for Information Retrieval Evaluation, Kolkata'
 paperurl: 'https://arxiv.org/pdf/1911.03772.pdf;Framework'
 citation: 'S. Mandal and D. Das. 
 <b> Code-Mixed to Monolingual Translation Framework </b>. 
