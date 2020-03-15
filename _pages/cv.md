@@ -16,11 +16,11 @@ Education
 
 Research Experience
 ======
-* Research Assistant,  Narrative Systems Group, ATEC, UT Dallas, March 2020 - Present *
+* ## Research Assistant,  Narrative Systems Group, ATEC, UT Dallas, March 2020 - Present 
   * <em>under the guidance of Dr. Paul Fishwick</em>
   * Developing narrative models using ConceptNet and Knowledge Graphs
 
-* Research Assistant, Intelligent Software and Security Lab, UT Dallas, September 2019 - March 2020 *
+* Research Assistant, Intelligent Software and Security Lab, UT Dallas, September 2019 - March 2020 
   * <em>under the guidance of Dr. Wei Yang</em>
   * Developed adversarial attack strategies for Natural Language Processing (NLP) systems 
   * Created Twitter bot detection systems using social graphs 
