@@ -49,6 +49,16 @@ Research Experience
   * Developed an automated system for collection of code-mixed data from Twitter
   * Created data for [Shared Task on Sentiment Analysis for Indian languages (SAIL 17](http://www.dasdipankar.com/SAILCodeMixed.html))
   * Developed a ternary sentiment classiﬁer for Bengali-English code-mixed data
+
+Projects
+======
+
+* <em>Insincere Question Classiﬁer</em> - Created a classiﬁcation model which tags whether a question is rhetorical, hate speech, hypothetical, sexually explicit, sincere, or other type (FIRE-CIQ 19’ 1st place) - Aug 2019
+* <em>AI for Legal Assistance</em> - Built a rudimentary information retrieval system which ranks statutes and precedents based on relevance, given a case as query using text embeddings (FIRE-AILA 19’ 4th place) - Aug 2019
+* <em>Normalization of Transliterated Words</em> - Developed a Bengali-English transliterated word normalizer using char seq2seq model and Levenshtein distance (paper accepted at W-NUT 2018, EMNLP) - May 2018
+* <em>Complex Word Identiﬁcation</em> - Devised a system which identiﬁes words which might seem complex to nonnative English speakers and hyperlinks them to dictionary meaning - Jan 2018
+* <em>UAV Object Detection</em> - Coded an object detection system using Viola-Jones object detection framework for SRM UAV club. - March 2017
+
   
 Skills
 ======
