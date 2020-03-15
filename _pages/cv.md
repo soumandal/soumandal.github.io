@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+<!-- title: "CV" -->
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,39 +14,48 @@ Education
 * M.S. in Computer Science, [The University of Texas at Dallas](https://www.utdallas.edu/), 2021 (expected)
 * B.Tech. in Computer Science & Engineering, [SRM Institute of Science & Technology](https://www.srmist.edu.in/), 2019
 
-Work experience
+Research Experience
 ======
-* [Jadavpur University](http://www.jaduniv.edu.in/), NLP Research Intern, December 2018 - January 2019 
-  * Developed a back-transliteration system for Bengali writen in Roman
-  * Developed a framework for translating Bengali-English code-mixed to monolingual instance
-  * Supervisor: <em>Dr. Dipankar Das</em>
-  
-* [Indian Institute of Technology (BHU), Varanasi](https://www.iitbhu.ac.in/), NLP Research Intern, June 2018 - July 2018 
-  * Developed an instance level code-mixed language tagger using character encoding and multichannel neural net
-  * Worked on solving OOV problem in NMT using cognate mapping
-  * Supervisor: <em>Dr. Anil Kumar Singh</em>
+* Research Assistant | Narrative Systems Group, ATEC, UT Dallas | March 2020 - Present
+  * under the guidance of <em>Dr. Paul Fishwick</em>
+  * Developing narrative model using ConceptNet and Knowledge Graphs
 
-* [Jadavpur University](http://www.jaduniv.edu.in/), NLP Research Intern, December 2017 - January 2018 
-  * Developed a word level code-mixed language tagger using character, phonetic encoding and LSTM
-  * Did a comparative study on translation of simple sentences by NMT and SMT systems
-  * Supervisor: <em>Dr. Dipankar Das</em>
+* Research Assistant | Intelligent Software and Security Lab, UT Dallas | September 2019 - March 2020
+  * under the guidance of <em>Dr. Wei Yang</em>
+  * Developed adversarial attack strategies for Natural Language Processing (NLP) systems 
+  * Created Twitter bot detection systems using social graphs 
+
+* NLP Research Intern | [Jadavpur University](http://www.jaduniv.edu.in/) | December 2018 - January 2019 
+  * under the guidance of <em>Dr. Dipankar Das</em>
+  * Engineered a system for translating code-mixed to a monolingual instance using language-based partitioning and char seq2seq with attention architecture
+  * Programmed a back-transliteration system using char seq2seq architecture
   
-* [Jadavpur University](http://www.jaduniv.edu.in/), NLP Research Intern, June 2017 - July 2017 
+* NLP Research Intern | [Indian Institute of Technology (BHU), Varanasi](https://www.iitbhu.ac.in/) | June 2018 - July 2018 
+  * under the guidance of <em>Dr. Anil Kumar Singh</em>
+  * Developed a code-mixed language tagger which takes context information using Bi-LSTM-CRF architecture
+  * Experimented on solving out-of-vocab (OOV) problem in NMT using cognate mapping 
+
+* NLP Research Intern | [Jadavpur University](http://www.jaduniv.edu.in/) | December 2017 - January 2018 
+  * under the guidance of <em>Dr. Dipankar Das</em>
+  * Developed a word level code-mixed language tagger using character, phonetic encoding and LSTM
+  * Carried out a comparative study on the translation of simple sentences by NMT and SMT systems 
+  
+* NLP Research Intern | [Jadavpur University](http://www.jaduniv.edu.in/) | June 2017 - July 2017 
+  * under the guidance of <em>Dr. Dipankar Das</em>
   * Developed an automated system for collection of code-mixed data from Twitter
   * Created data for [Shared Task on Sentiment Analysis for Indian languages (SAIL 17](http://www.dasdipankar.com/SAILCodeMixed.html))
   * Developed a ternary sentiment classiﬁer for Bengali-English code-mixed data
-  * Supervisor: <em>Dr. Dipankar Das</em>
 
-* [Jadavpur University](http://www.jaduniv.edu.in/), NLP Research Intern, December 2016 - January 2017 
+* NLP Research Intern | [Jadavpur University](http://www.jaduniv.edu.in/) | December 2016 - January 2017 
+  * under the guidance of <em>Dr. Dipankar Das</em>
   * Created a Bengali-English code-mixed corpus with 800+ instances
   * Developed a binary sentiment classifier for Bengali-English code-mixed data
-  * Supervisor: <em>Dr. Dipankar Das</em>
   
 Skills
 ======
-* Programming Languages - Python, Java, C++, C, MATLAB
-* Libraries - NumPy, Pandas, Matplotlib, Tensorflow, Keras, Scikit-Learn
-* Technologies - Git, Django, MySQL, Flask
+* Programming Languages - Python, Java, C++, C, R, 
+* Libraries - Tensorﬂow, Keras, PyTorch, Numpy, Scipy, NLTK, Spacy, Pandas 
+* Technologies - MongoDB, MySQL, React, Angular, Django, Node.JS, Firebase, Docker
 
 <!---
 Publications
