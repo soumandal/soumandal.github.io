@@ -14,9 +14,13 @@ Education
 * M.S. in Computer Science, [The University of Texas at Dallas](https://www.utdallas.edu/), 2021 (expected)
 * B.Tech. in Computer Science & Engineering, [SRM Institute of Science & Technology](https://www.srmist.edu.in/), 2019
 
+Industrial Experience
+======
+* NLP Engineer (Remote), Wing, California, Irvine, March 2020 - Present 
+
 Research Experience
 ======
-* Research Assistant,  Narrative Systems Group, ATEC, UT Dallas, March 2020 - Present 
+* Research Assistant, Narrative Systems Group, ATEC, UT Dallas, March 2020 - Present 
   * <em>under the guidance of Dr. Paul Fishwick</em>
   * Developing narrative models using ConceptNet and Knowledge Graphs
 
