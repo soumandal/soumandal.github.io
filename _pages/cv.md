@@ -17,39 +17,34 @@ Education
 Research Experience
 ======
 * Research Assistant,  Narrative Systems Group, ATEC, UT Dallas, March 2020 - Present
-  ### * <em>under the guidance of Dr. Paul Fishwick</em>
+  * <em>under the guidance of Dr. Paul Fishwick</em>
   * Developing narrative models using ConceptNet and Knowledge Graphs
 
 * Research Assistant, Intelligent Software and Security Lab, UT Dallas, September 2019 - March 2020
-  ### * <em>under the guidance of Dr. Wei Yang</em>
+  * <em>under the guidance of Dr. Wei Yang</em>
   * Developed adversarial attack strategies for Natural Language Processing (NLP) systems 
   * Created Twitter bot detection systems using social graphs 
 
 * NLP Research Intern, [Jadavpur University](http://www.jaduniv.edu.in/), December 2018 - January 2019 
-  ### * <em>under the guidance of Dr. Dipankar Das</em>
+  * <em>under the guidance of Dr. Dipankar Das</em>
   * Engineered a system for translating code-mixed to a monolingual instance using language-based partitioning and char seq2seq with attention architecture
   * Programmed a back-transliteration system using char seq2seq architecture
   
 * NLP Research Intern, [Indian Institute of Technology (BHU), Varanasi](https://www.iitbhu.ac.in/), June 2018 - July 2018 
-  ### * </em>under the guidance of Dr. Anil Kumar Singh</em>
+  * <em>under the guidance of Dr. Anil Kumar Singh</em>
   * Developed a code-mixed language tagger which takes context information using Bi-LSTM-CRF architecture
   * Experimented on solving out-of-vocab (OOV) problem in NMT using cognate mapping 
 
 * NLP Research Intern, [Jadavpur University](http://www.jaduniv.edu.in/), December 2017 - January 2018 
-  ### * <em>under the guidance of Dr. Dipankar Das</em>
+  * <em>under the guidance of Dr. Dipankar Das</em>
   * Developed a word level code-mixed language tagger using character, phonetic encoding and LSTM
   * Carried out a comparative study on the translation of simple sentences by NMT and SMT systems 
   
 * NLP Research Intern, [Jadavpur University](http://www.jaduniv.edu.in/), June 2017 - July 2017 
-  ### * <em>under the guidance of Dr. Dipankar Das</em>
+  * <em>under the guidance of Dr. Dipankar Das</em>
   * Developed an automated system for collection of code-mixed data from Twitter
   * Created data for [Shared Task on Sentiment Analysis for Indian languages (SAIL 17](http://www.dasdipankar.com/SAILCodeMixed.html))
   * Developed a ternary sentiment classiﬁer for Bengali-English code-mixed data
-
-* NLP Research Intern, [Jadavpur University](http://www.jaduniv.edu.in/), December 2016 - January 2017 
-  ### * <em>under the guidance of Dr. Dipankar Das</em>
-  * Created a Bengali-English code-mixed corpus with 800+ instances
-  * Developed a binary sentiment classifier for Bengali-English code-mixed data
   
 Skills
 ======
