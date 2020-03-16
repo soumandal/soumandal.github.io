@@ -14,9 +14,9 @@ Education
 * M.S. in Computer Science, [The University of Texas at Dallas](https://www.utdallas.edu/), 2021 (expected)
 * B.Tech. in Computer Science & Engineering, [SRM Institute of Science & Technology](https://www.srmist.edu.in/), 2019
 
-Industrial Experience
+<!-- Industrial Experience
 ======
-* NLP Engineer (Remote), Wing, California, Irvine, March 2020 - Present 
+* NLP Engineer (Remote), Wing, California, Irvine, March 2020 - Present  -->
 
 Research Experience
 ======
